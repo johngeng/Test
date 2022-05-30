@@ -12147,11 +12147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\john.geng\\source\\repos\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\john.geng\\source\\repos\\Git\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\john.geng\\source\\repos\\Test\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\john.geng\\source\\repos\\Git\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\john.geng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\john.geng\\source\\repos\\Test\\Test\\obj\\",
+      "outputPath": "C:\\Users\\john.geng\\source\\repos\\Git\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
